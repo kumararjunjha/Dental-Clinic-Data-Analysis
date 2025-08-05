@@ -1,4 +1,4 @@
-**🦷 Dental Clinic & Implant Centre – End-to-End Power BI Analytics Project**
+****🦷 Dental Clinic & Implant Centre – End-to-End Power BI Analytics Project****
 Presenting a realistic data analytics case study built on a fictional dental clinic & implant centre. This project simulates the operational flow of a healthcare business and delivers actionable insights through a visually compelling Power BI dashboard.
 
 **🔍 Key Insights Delivered:**
